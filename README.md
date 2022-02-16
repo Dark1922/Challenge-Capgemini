@@ -1,15 +1,15 @@
 # Desafio Academia Técnica Capgemini
 
 Este projeto tem como objetivo a solução do Desafio da Academia Técnica Capgemini, composto por três questões.
+Os desafios se Encontram na pasta src com os nomes challenge1, challenge2, challenge3 seguindo as questão do desafio.
 
 🚀 Começando
 
-Este projeto foi criado com a IDE Eclipse e pode ser rodado tanto no console da IDE como no Git Bash.
+Este projeto foi criado com o Intlij idea e pode ser rodado tanto no console da IDE como no Git Bash.
 
 📋 Pré-requisitos
 
-Para rodar o código no Git Bash, primeiro intale o Git na sua máquina, você pode baixa-lo por este link: https://git-scm.com/downloads, em seguida faça uma clone do
-repositório.
+Para rodar o código no Git Bash, primeiro intale o Git na sua máquina, você pode clonar o repositório: gh repo clone Dark1922/Challenge-Capgemini, ou baixar direto pelo git code.
 
 🔧 Instalação
 
@@ -73,6 +73,6 @@ A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão
 
 🛠️ Construído com
 
-Este projeto foi desenvolvido com a linguagem Java dentro do Intelij idea, java jdk 11.
+Este projeto foi desenvolvido com a linguagem Java dentro do Intelij idea,  Jdk 11.
 
 
