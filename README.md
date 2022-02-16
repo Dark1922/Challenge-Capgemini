@@ -5,7 +5,7 @@ Os desafios se Encontram na pasta src com os nomes challenge1, challenge2, chall
 
 🚀 Começando
 
-Este projeto foi criado com o Intlij idea e pode ser rodado tanto no console da IDE como no Git Bash.
+Este projeto foi criado com o Intlij idea e pode ser rodado tanto no console da IDE como no Git Bash, Visual Stuidio Code e  Eclipse ,usando os import e o código descrito nos desafios.
 
 📋 Pré-requisitos
 
