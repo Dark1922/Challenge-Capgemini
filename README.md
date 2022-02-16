@@ -5,7 +5,7 @@ Os desafios se Encontram na pasta src com os nomes challenge1, challenge2, chall
 
 🚀 Começando
 
-Este projeto foi criado com o Intlij idea e pode ser rodado tanto no console da IDE como no Git Bash, Visual Stuidio Code e  Eclipse ,usando os import e o código descrito nos desafios.
+Este projeto foi criado com o Intelij idea e pode ser rodado tanto no console da IDE como no Git Bash, Visual Stuidio Code e  Eclipse ,usando os import e o código descrito nos desafios.
 
 📋 Pré-requisitos
 
@@ -13,9 +13,7 @@ Para rodar o código no Git Bash, primeiro intale o Git na sua máquina, você p
 
 🔧 Instalação
 
-Vá na pasta do projeto, entre na pasta bin, clique com o botão direito do mouse e entre na opção "Git Bash Here". Após abrir o prompt escreva: 
-java application/QuestionOne (para a questão número um), java application/QuestionTwo (para a questão número dois) ou java application/QuestionThree 
-(para a questão número três).
+baixar jdk 11 ou superior , idea eclipse ou intlij , e compilar o código main em cada pasta dos desáfios.
 
 🔩 Questôes
 
