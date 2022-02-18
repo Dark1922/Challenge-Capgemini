@@ -86,9 +86,9 @@ A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão
 
 Exemplo <br/>
 
-![image](https://user-images.githubusercontent.com/48605830/154741103-d426f0a4-cb26-4481-b63b-4fdaf36d8cad.png)
+![image](https://user-images.githubusercontent.com/48605830/154741103-d426f0a4-cb26-4481-b63b-4fdaf36d8cad.png)<br/> 
 <br/> 
-![image](https://user-images.githubusercontent.com/48605830/154741149-4e8ba119-5eac-4b92-ad79-c9582b336d18.png)
+<br/> ![image](https://user-images.githubusercontent.com/48605830/154741149-4e8ba119-5eac-4b92-ad79-c9582b336d18.png)
 
 <hr>
 
