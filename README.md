@@ -57,7 +57,7 @@ Explicação:
 Ela pode tornar a senha segura adicionando 3 caracteres, por exemplo, &ab, transformando a senha em Ya3&ab. 2 caracteres não são suficientes visto que a senha precisa ter um 
 tamanho mínimo de 6 caracteres.
 
-<br>
+.
 Saídas de código <br/>
 ![image](https://user-images.githubusercontent.com/48605830/154740664-09527dc7-3cd6-48ee-8f88-6611d29e2e46.png)
 ![image](https://user-images.githubusercontent.com/48605830/154740847-96894c85-527d-4af0-b4c7-a0095cef24f9.png)
