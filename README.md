@@ -34,7 +34,8 @@ Saída:
 ******
 ```
 
-Saídas de código <br/>
+Saídas de código<br>
+
 ![image](https://user-images.githubusercontent.com/48605830/154740318-41ffc291-f236-4800-96e7-65dfa0f04326.png)
 <hr>
 # Questão 02
