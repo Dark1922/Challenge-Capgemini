@@ -33,7 +33,8 @@ Saída:
   *****
 ******
 ```
-Saidas de código
+
+Saídas de código <br>
 ![image](https://user-images.githubusercontent.com/48605830/154740318-41ffc291-f236-4800-96e7-65dfa0f04326.png)
 <hr>
 # Questão 02
@@ -55,7 +56,7 @@ Explicação:
 Ela pode tornar a senha segura adicionando 3 caracteres, por exemplo, &ab, transformando a senha em Ya3&ab. 2 caracteres não são suficientes visto que a senha precisa ter um 
 tamanho mínimo de 6 caracteres.
 
-Saidas de código
+Saídas de código <br>
 ![image](https://user-images.githubusercontent.com/48605830/154740664-09527dc7-3cd6-48ee-8f88-6611d29e2e46.png)
 ![image](https://user-images.githubusercontent.com/48605830/154740847-96894c85-527d-4af0-b4c7-a0095cef24f9.png)
 <hr>
@@ -78,7 +79,7 @@ Saída:
 Explicação:
 A lista de todos os anagramas pares são: [i, i], [q, q] e [ifa, fai] que estão nas posições [[0, 3]], [[8, 9]] e [[0, 1, 2], [1, 2, 3]].
 
-Saidas de código
+Saídas de código <br>
 ![image](https://user-images.githubusercontent.com/48605830/154741103-d426f0a4-cb26-4481-b63b-4fdaf36d8cad.png)
 ![image](https://user-images.githubusercontent.com/48605830/154741149-4e8ba119-5eac-4b92-ad79-c9582b336d18.png)
 
