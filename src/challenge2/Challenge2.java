@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class Challenge2 {
 
+    public static String msgSucess = "";
+
     public static void main(String[] args) {
         Menu();
     }
@@ -25,7 +27,7 @@ public class Challenge2 {
         String password = write.nextLine();
 
         ValidatePassword(password);
-        System.out.println("successfully registered");
+
 
         write.close();
     }
@@ -58,6 +60,8 @@ public class Challenge2 {
 
         if (charactersValidated > 0){
             Menu();
+        } else {
+           System.out.println(msgSucess = "successfully registered");
         }
     }
 }
