@@ -2,7 +2,7 @@
 
 Este projeto tem como objetivo a solução do Desafio da Academia Técnica Capgemini, composto por três questões.
 
-Os desafios se Encontram na pasta src com os nomes challenge1, challenge2, challenge3 seguindo as questão do desafio.
+Os desafios se Encontram na pasta src com os nomes challenge1, challenge2, challenge3 seguindo as questão do desafio, para compilar e necessário da run pela ide em cada classe main executável dos desafio.
 
 🚀 Começando
 
